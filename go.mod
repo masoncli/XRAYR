@@ -1,6 +1,6 @@
 module github.com/XrayR-project/XrayR
 
-go 1.22.0
+go 1.23
 
 require (
 	dario.cat/mergo v1.0.0
@@ -27,7 +27,7 @@ require (
 	golang.org/x/crypto v0.25.0
 	golang.org/x/net v0.27.0
 	golang.org/x/time v0.5.0
-	google.golang.org/protobuf v1.34.2
+	google.golang.org/protobuf v1.36.11
 )
 
 require (
